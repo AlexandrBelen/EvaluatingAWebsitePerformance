@@ -1,0 +1,16 @@
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\WebsitePerfomance.exe
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\WebsitePerfomance.deps.json
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\WebsitePerfomance.runtimeconfig.json
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\WebsitePerfomance.runtimeconfig.dev.json
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\WebsitePerfomance.dll
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\WebsitePerfomance.pdb
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.dll
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.pdb
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.genruntimeconfig.cache
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.csproj.CopyComplete
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\Alexandr\Desktop\Test\WebsitePerfomance\obj\Debug\netcoreapp3.1\WebsitePerfomance.csproj.CoreCompileInputs.cache
